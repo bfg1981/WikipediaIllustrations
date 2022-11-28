@@ -9,4 +9,4 @@ His work is licensed CC0, so this work is also licensed CC0
 
 # License
 
-CC0
+![CC0](https://upload.wikimedia.org/wikipedia/commons/4/43/CC_Zero_badge.svg)
